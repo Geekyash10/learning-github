@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 changed 
 hai ye 
-again changed
->>>>>>> e92b13555e911e0b9c326f149503af4ea4558849
+
